@@ -1,4 +1,4 @@
-package com.example.todoapp.data
+package com.example.todoapp.data.data.model
 
 data class Note(
     val id: Int,
